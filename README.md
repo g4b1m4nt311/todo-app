@@ -1,6 +1,6 @@
 # Django Todo List
 
-Code for a Django Todo list with simple CRUD functionality, user based views and a PostgreSQL database
+Code for a Django Todo list with simple CRUD functionality, user registration and login, and a PostgreSQL database
 
 ## Setup instructions
 1. Navigate into project directory
