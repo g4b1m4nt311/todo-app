@@ -10,4 +10,4 @@ Code for a Django Todo list with simple CRUD functionality, user registration an
 5. Generate database and tables - ```python manage.py migrate```
 6. Run the app - ```python manage.py runserver```
 
-NB: please note that for the purpose of this exercise I have left the production key in the code, however this would be secured in a live environment scenario.  
+NB: please note that for the purpose of this exercise the production key is in the code, however this would be secured in a live environment scenario.  
